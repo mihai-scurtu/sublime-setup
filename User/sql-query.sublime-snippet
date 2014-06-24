@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+mysql_query(\$query, \$conn) or die(mysql_error(\$conn));
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>sqlquery</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>
