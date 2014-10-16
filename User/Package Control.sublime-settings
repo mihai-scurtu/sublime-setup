@@ -2,10 +2,15 @@
 	"installed_packages":
 	[
 		"DocBlockr",
+		"EditorConfig",
 		"Emmet",
 		"ExpandRegion",
+		"Handlebars",
+		"Jade",
+		"Laravel Blade Highlighter",
 		"LESS",
 		"Line Endings Unify",
+		"Modific",
 		"Package Syncing",
 		"PHP Completions Kit",
 		"PhpDoc",
